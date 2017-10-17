@@ -1,0 +1,14 @@
+.task {
+  border: 1px solid #000;
+  display: inline-block;
+  padding: 3px 5px;
+}
+
+.title {
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.status {
+  color: #AAA;
+}
